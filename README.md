@@ -12,16 +12,16 @@ Our collaboration is guided by a `GEMINI.md` file, which acts as a constitution 
 
 Here's a snapshot of our project-based learning in action:
 
-*   **Module 1: Probability Basics**
-    *   **Goal:** Build a functional Naive Bayes spam filter from scratch.
-    *   **Concepts:** Conditional probability, Bayes' theorem, sample spaces.
-    *   **Code:** See the scripts in the `module-1/` directory.
+- **Module 1: Probability Basics**
+  - **Goal:** Build a functional Naive Bayes spam filter from scratch.
+  - **Concepts:** Conditional probability, Bayes' theorem, sample spaces.
+  - **Code:** See the scripts in the `module-1/` directory.
 
 This approach turns abstract theories into tangible creations, making learning more concrete and memorable.
 
 ## Create Your Own AI-Powered Learning Journey
 
-You can use this repository as a template to learn anything you're passionate about. The key is to create your own learning plan that guides your AI assistant.
+You can use this repository as a template to learn anything you're even NOT passionate about. The key is to create your own learning plan that guides your AI assistant.
 
 ### 1. Create Your `MY_LEARNING_PLAN.md`
 
@@ -33,33 +33,34 @@ Copy and paste the following template into your `MY_LEARNING_PLAN.md` and fill i
 
 ---
 
-# Learning Plan: [Your Subject Here, e.g., Music Theory, Quantum Physics]
+# Learning Plan: [[Your Subject]Quantum Physics]
 
 ## 1. Learner Interests & Objectives
 
-*   **My Interests:** I am a person of [Your Fields/Hobbies, e.g., "art, history, and video games"].
-*   **My Goal:** I want to gain a deep, practical understanding of [Your Subject] so I can [Your Ultimate Goal, e.g., "compose a video game soundtrack" or "write a sci-fi story based on real physics"].
+- **My Interests:** I am a person of [Your Fields/Hobbies, e.g., "art, history, and video games"].
+- **My Goal:** I want to gain a deep, practical understanding of [Your Subject] so I can [Your Ultimate Goal, e.g., "compose a video game soundtrack" or "write a sci-fi story based on real physics"].
 
 ## 2. Guiding Principles
 
-*These are the rules for how your AI assistant should teach you.*
+_These are the rules for how your AI assistant should teach you._
 
-*   **Principle 1: Connect to My World:** Strive to connect every new concept to my interests in [Your Fields/Hobbies]. For example, if we're learning about algorithms, show me how they apply to level design in games.
-*   **Principle 2: Visualize Everything:** Use code (e.g., Python with Matplotlib) or descriptive language to help me visualize abstract concepts.
-*   **Principle 3: Project-Driven Learning:** Every major concept should end with a small, hands-on project that produces a tangible result.
-*   **Principle 4: What-If Scenarios:** After completing a project, prompt me with "What if..." questions to explore the boundaries of what we've built.
+- **Principle 1: Connect to My World:** Strive to connect every new concept to my interests in [Your Fields/Hobbies]. For example, if we're learning about algorithms, show me how they apply to level design in games.
+- **Principle 2: Visualize Everything:** Use code (e.g., Python with Matplotlib) or descriptive language to help me visualize abstract concepts.
+- **Principle 3: Project-Driven Learning:** Every major concept should end with a small, hands-on project that produces a tangible result.
+- **Principle 4: What-If Scenarios:** After completing a project, prompt me with "What if..." questions to explore the boundaries of what we've built.
 
 ## 3. Project Roadmap
 
-*This is your syllabus. Start with one or two modules and build it out as you go.*
+_This is your syllabus. Start with one or two modules and build it out as you go._
 
-*   **Module 1: [First Core Concept, e.g., "Musical Scales & Intervals"]**
-    *   **Goal:** [Your Project Goal, e.g., "Build a Python script that can identify the key of a simple melody"].
-    *   **Concepts:** [List of concepts, e.g., "Major/Minor Scales, Whole/Half Steps, Key Signatures"].
+- **Module 1: [First Core Concept, e.g., "Musical Scales & Intervals"]**
 
-*   **Module 2: [Next Core Concept, e.g., "Chord Progressions"]**
-    *   **Goal:** [Your Project Goal, e.g., "Create a simple chord progression generator"].
-    *   **Concepts:** [List of concepts, e.g., "Triads, Diatonic Chords, I-IV-V Progression"].
+  - **Goal:** [Your Project Goal, e.g., "Build a Python script that can identify the key of a simple melody"].
+  - **Concepts:** [List of concepts, e.g., "Major/Minor Scales, Whole/Half Steps, Key Signatures"].
+
+- **Module 2: [Next Core Concept, e.g., "Chord Progressions"]**
+  - **Goal:** [Your Project Goal, e.g., "Create a simple chord progression generator"].
+  - **Concepts:** [List of concepts, e.g., "Triads, Diatonic Chords, I-IV-V Progression"].
 
 ---
 
